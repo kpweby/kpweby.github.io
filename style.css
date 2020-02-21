@@ -1,0 +1,11 @@
+.article-img {
+  text-align: center;
+}
+
+.img {
+  height: 300px;
+  width: auto;
+}
+body {
+  background-color: aquamarine;
+}
